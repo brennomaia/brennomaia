@@ -7,6 +7,11 @@
 - Trabalho na Voxline Total Interaction
 - Estudando para me tornar um Desenvolvedor de Sistemas :running:
 
+  
+### :bulb: Statistics
+![Brenno Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=brennomaia&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brennomaia&layout=compact)](https://github.com/brennomaia/github-readme-stats)
+
 
 ### :globe_with_meridians: _Networking_
 
@@ -31,18 +36,7 @@
 
   
   
-### :toolbox: _Tolls_
-  
+###:caixa de ferramentas: _Tools_  
 <img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></img>
 <img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></img>
 <img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></img>
-<img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></img>
-
-  
-  
-### :bulb: Statistics
-![Brenno Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=brennomaia&show_icons=true&theme=dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brennomaia&layout=compact)](https://github.com/brennomaia/github-readme-stats)
-
