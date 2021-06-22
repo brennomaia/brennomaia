@@ -1,7 +1,7 @@
 # Sejam Bem-vindos👋
 
 
-## Me chamoBrenno Maia, tenho 26 anos.:raising_hand_man:
+## Me chamo Brenno Maia, tenho 26 anos.:raising_hand_man:
 ### Analista de Suporte PL :technologist: | Formado Gestão de Tecnologia da informação. :man_student:
 
 ### _Bio_
