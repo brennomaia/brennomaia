@@ -5,7 +5,7 @@
 ### Analista de Suporte PL :technologist: | Formado Gestão de Tecnologia da informação. :man_student:
 
 ### _Bio_
-- **Sou de São Paulo, SP** :brazil:
+- **São Paulo, SP** :brazil:
 - Trabalho na Voxline Total Interaction
 - Estudando para me tornar um Desenvolvedor de Sistemas :running:
 
