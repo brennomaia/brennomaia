@@ -6,7 +6,6 @@
 
 ### _Bio_
 - **São Paulo, SP** :brazil:
-- Trabalho na Voxline Total Interaction
 - Estudando para me tornar um Desenvolvedor de Sistemas :running:
 
   
