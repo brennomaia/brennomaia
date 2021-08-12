@@ -2,7 +2,7 @@
 
 
 ## Me chamo Brenno Maia, tenho 26 anos.:raising_hand_man:
-### Analista de Suporte PL :technologist: | Formação em Gestão de Tecnologia da informação. :man_student:
+### Analista de Suporte :technologist: | Formação em Gestão de Tecnologia da informação. :man_student:
 
 ### _Bio_
 - **São Paulo, SP** :brazil:
