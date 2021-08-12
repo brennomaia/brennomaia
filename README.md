@@ -34,6 +34,8 @@
 </img>
 <img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </img>
+<img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+</img>
 
   
 ###  🧰 _Tools_  
@@ -41,3 +43,5 @@
 <img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></img>
 <img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></img>
 <img align="center" alt="brenno-maia" height="60" width="55" style="max-width:100%;" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></img>
+
+
